@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b21305f5739c8e145abe630fa41e8853, type: 3}
+  m_Name: Achievements_DataBase
+  m_EditorClassIdentifier: Assembly-CSharp::AchievementsDataBase
+  achievementList:
+  - description: 'Complete Level:'
+    type: 5
+    completeAchiev: 0
+    completeLevel: 0
+    level: 0
+  - description: 'Complete Level:'
+    type: 5
+    completeAchiev: 0
+    completeLevel: 0
+    level: 1
+  - description: 'Complete Level:'
+    type: 5
+    completeAchiev: 0
+    completeLevel: 0
+    level: 2
+  - description: 'Complete Level:'
+    type: 5
+    completeAchiev: 0
+    completeLevel: 0
+    level: 3
+  - description: 'Complete Level:'
+    type: 5
+    completeAchiev: 0
+    completeLevel: 0
+    level: 4
+  - description: 'Complete Level:'
+    type: 5
+    completeAchiev: 0
+    completeLevel: 0
+    level: 5
+  - description: 'Complete Level:'
+    type: 5
+    completeAchiev: 0
+    completeLevel: 0
+    level: 6
+  - description: 'Complete Level:'
+    type: 5
+    completeAchiev: 0
+    completeLevel: 0
+    level: 7
+  - description: 'Complete Level:'
+    type: 5
+    completeAchiev: 0
+    completeLevel: 0
+    level: 8
+  achievementCount:
+  - description: Save up 100 emeralds
+    type: 0
+    completeAchiev: 0
+    count: 100
+  - description: Save up 500 emeralds
+    type: 0
+    completeAchiev: 0
+    count: 500
+  - description: Save up 1000 emeralds
+    type: 0
+    completeAchiev: 0
+    count: 1000
+  - description: Jump 100 times
+    type: 1
+    completeAchiev: 0
+    count: 100
+  - description: Jump 500 times
+    type: 1
+    completeAchiev: 0
+    count: 500
+  - description: Jump 1000 times
+    type: 1
+    completeAchiev: 0
+    count: 1000
+  - description: Slide 100 times
+    type: 2
+    completeAchiev: 0
+    count: 100
+  - description: Slide 500 times
+    type: 2
+    completeAchiev: 0
+    count: 500
+  - description: Slide 1000 times
+    type: 2
+    completeAchiev: 0
+    count: 1000
+  - description: Play 10000 seconds
+    type: 3
+    completeAchiev: 0
+    count: 10000
+  - description: Play 25000 seconds
+    type: 3
+    completeAchiev: 0
+    count: 25000
+  - description: Play 100000 seconds
+    type: 3
+    completeAchiev: 0
+    count: 100000
+  - description: Death 250 times
+    type: 4
+    completeAchiev: 0
+    count: 250
+  - description: Death 1000 times
+    type: 4
+    completeAchiev: 0
+    count: 1000
+  - description: Death 2500 times
+    type: 4
+    completeAchiev: 0
+    count: 2500

@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7c23aa8b3d69e8488dba31717f369e5, type: 3}
+  m_Name: Levels_Database
+  m_EditorClassIdentifier: 
+  levels:
+  - icon: {fileID: 21300000, guid: b26fad1651d346f4bad38a3983740973, type: 3}
+    difficulty: 0
+    name: Level1Easy
+    bestTime: 0
+    secret: 0
+    complete: 0
+    unlock: 1
+    price: 0
+    reward: 5
+  - icon: {fileID: 21300000, guid: b7abe30ca27dadb47a1d72dc9716d1e7, type: 3}
+    difficulty: 0
+    name: Level2Easy
+    bestTime: 0
+    secret: 0
+    complete: 0
+    unlock: 0
+    price: 25
+    reward: 5
+  - icon: {fileID: 21300000, guid: 740f88a273f888c489a7213da919bc9e, type: 3}
+    difficulty: 0
+    name: Level3Easy
+    bestTime: 0
+    secret: 0
+    complete: 0
+    unlock: 0
+    price: 25
+    reward: 5
+  - icon: {fileID: 21300000, guid: 99821e7f664ac2e418257e13fcda59a5, type: 3}
+    difficulty: 1
+    name: Level4Normal
+    bestTime: 0
+    secret: 0
+    complete: 0
+    unlock: 0
+    price: 35
+    reward: 10
+  - icon: {fileID: 21300000, guid: 88b3cb4553189cb42a609520e9ffb399, type: 3}
+    difficulty: 1
+    name: Level5Normal
+    bestTime: 0
+    secret: 0
+    complete: 0
+    unlock: 0
+    price: 35
+    reward: 10
+  - icon: {fileID: 21300000, guid: 5706ce167253b6b4291b77d706178782, type: 3}
+    difficulty: 1
+    name: Level6Normal
+    bestTime: 0
+    secret: 0
+    complete: 0
+    unlock: 0
+    price: 35
+    reward: 10
+  - icon: {fileID: 21300000, guid: de5a33110fa181248956a115d1f20728, type: 3}
+    difficulty: 2
+    name: Level7Hard
+    bestTime: 0
+    secret: 0
+    complete: 0
+    unlock: 0
+    price: 45
+    reward: 15
+  - icon: {fileID: 21300000, guid: 99c84a286deaeea44a9153129051e716, type: 3}
+    difficulty: 2
+    name: Level8Hard
+    bestTime: 0
+    secret: 0
+    complete: 0
+    unlock: 0
+    price: 45
+    reward: 15
+  - icon: {fileID: 21300000, guid: 4ff64662330db914292b933345826bf8, type: 3}
+    difficulty: 2
+    name: Level9Hard
+    bestTime: 0
+    secret: 0
+    complete: 0
+    unlock: 0
+    price: 45
+    reward: 20
+  choiceLevel: 0

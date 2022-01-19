@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Kill
+  - Grass
+  - End
+  - SpawnPoint
+  - JumpTrampline
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platforms
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: kill
+    uniqueID: 2581550457
+    locked: 0
+  - name: backGreen
+    uniqueID: 2745143685
+    locked: 0
+  - name: Player
+    uniqueID: 1757056921
+    locked: 0
+  - name: frontGreen
+    uniqueID: 4185046729
+    locked: 0
+  - name: Platforms
+    uniqueID: 847852011
+    locked: 0
+  - name: PlatformsColliders
+    uniqueID: 23436509
+    locked: 0
+  - name: Front
+    uniqueID: 3673553185
+    locked: 0
